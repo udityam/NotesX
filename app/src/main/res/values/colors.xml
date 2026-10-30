@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#4F46E5</color>
+    <color name="background">#F8FAFC</color>
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#64748B</color>
+    <color name="pastel_1">#FDF4FF</color>
+    <color name="pastel_2">#F0FDF4</color>
+    <color name="pastel_3">#FFFBEB</color>
+    <color name="pastel_4">#EFF6FF</color>
+    <color name="pastel_5">#FEF2F2</color>
+    <color name="pastel_6">#F8FAFC</color>
+    <color name="card_border">#E2E8F0</color>
+</resources>
